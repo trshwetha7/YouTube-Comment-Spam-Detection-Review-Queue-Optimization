@@ -1,0 +1,21 @@
+{
+  "review_threshold": 0.55,
+  "auto_remove_threshold": 0.85,
+  "auto_removed_pct": 0.24948875255623723,
+  "review_pct": 0.2167689161554192,
+  "allowed_pct": 0.5337423312883436,
+  "auto_removed_count": 122,
+  "review_count": 106,
+  "allowed_count": 261,
+  "reviewer_workload_per_1000_comments": 216.76891615541922,
+  "spam_caught_pct": 0.8844621513944223,
+  "spam_auto_removed_pct": 0.4860557768924303,
+  "legitimate_comments_wrongly_escalated": 6,
+  "wrongful_auto_removals": 0,
+  "spam_leaked_to_allow": 29,
+  "auto_remove_precision": 1.0,
+  "review_queue_spam_rate": 0.9433962264150944,
+  "allowed_spam_rate": 0.1111111111111111,
+  "total_ham": 238,
+  "total_spam": 251
+}

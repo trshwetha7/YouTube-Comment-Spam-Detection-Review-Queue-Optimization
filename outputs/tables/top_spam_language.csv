@@ -1,0 +1,41 @@
+term,count,label,ngram
+check,557,spam,1-1
+url,230,spam,1-1
+subscribe,229,spam,1-1
+video,227,spam,1-1
+youtube,225,spam,1-1
+39,210,spam,1-1
+channel,197,spam,1-1
+br,193,spam,1-1
+like,160,spam,1-1
+just,128,spam,1-1
+new,119,spam,1-1
+music,117,spam,1-1
+guys,116,spam,1-1
+com,115,spam,1-1
+money,88,spam,1-1
+quot,85,spam,1-1
+hey,84,spam,1-1
+make,81,spam,1-1
+comment,69,spam,1-1
+videos,68,spam,1-1
+check video,135,spam,2-2
+video youtube,130,spam,2-2
+br br,84,spam,2-2
+check new,72,spam,2-2
+new mixtape,48,spam,2-2
+check channel,46,spam,2-2
+subscribe channel,46,spam,2-2
+mixtape check,45,spam,2-2
+guys check,39,spam,2-2
+make money,38,spam,2-2
+hey guys,38,spam,2-2
+href url,38,spam,2-2
+check playlist,37,spam,2-2
+playlist youtube,36,spam,2-2
+moneygq com,36,spam,2-2
+zonepa com,33,spam,2-2
+like comment,33,spam,2-2
+money online,31,spam,2-2
+don 39,31,spam,2-2
+check music,30,spam,2-2

@@ -1,0 +1,10 @@
+{
+  "rows": 1956,
+  "videos": 5,
+  "spam_comments": 1005,
+  "ham_comments": 951,
+  "spam_rate": 0.5138,
+  "mean_comment_length": 94.7,
+  "median_comment_length": 48.0,
+  "comments_with_urls": 202
+}

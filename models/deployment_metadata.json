@@ -1,0 +1,18 @@
+{
+  "deployment_model": "Logistic Regression",
+  "decision_threshold": 0.5,
+  "review_threshold": 0.55,
+  "auto_remove_threshold": 0.85,
+  "test_size": 0.25,
+  "random_state": 42,
+  "summary": {
+    "rows": 1956,
+    "videos": 5,
+    "spam_comments": 1005,
+    "ham_comments": 951,
+    "spam_rate": 0.5138,
+    "mean_comment_length": 94.7,
+    "median_comment_length": 48.0,
+    "comments_with_urls": 202
+  }
+}
