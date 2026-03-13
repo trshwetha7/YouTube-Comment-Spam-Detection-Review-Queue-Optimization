@@ -123,17 +123,9 @@ The app includes these sections:
 
 Main app file:
 
-- [`app/streamlit_app.py`](/Users/trshwetha7/Desktop/Youtube-project/app/streamlit_app.py)
-
-## Notebook
-
-The notebook walks through the full workflow from data loading to final conclusions.
-
-- [`notebooks/youtube_spam_detection_end_to_end.ipynb`](/Users/trshwetha7/Desktop/Youtube-project/notebooks/youtube_spam_detection_end_to_end.ipynb)
+- [`app/streamlit_app.py`](https://youtube-comment-spam-detection-review-queue-optimization-ufn8h.streamlit.app/)
 
 ## Charts
-
-Generated charts are saved in [`outputs/charts`](/Users/trshwetha7/Desktop/Youtube-project/outputs/charts).
 
 Example charts:
 
@@ -142,39 +134,6 @@ Example charts:
 ![Threshold tradeoffs](outputs/charts/threshold_tradeoffs.png)
 
 ![Queue simulation frontier](outputs/charts/queue_simulation_frontier.png)
-
-## Screenshots
-
-You can add one or two screenshots from the Streamlit app in this section after deployment.
-
-## How to run
-
-Create the environment and install dependencies:
-
-```bash
-cd /Users/trshwetha7/Desktop/Youtube-project
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-Train the models and generate outputs:
-
-```bash
-PYTHONPATH=src python3 -m youtube_spam_detector.train
-```
-
-Run JupyterLab without opening a browser:
-
-```bash
-jupyter lab --no-browser --ip=127.0.0.1 --port=8888
-```
-
-Run Streamlit without opening a browser:
-
-```bash
-PYTHONPATH=src streamlit run app/streamlit_app.py --server.headless true --server.address 127.0.0.1 --server.port 8501
-```
 
 
 ## Limitations
