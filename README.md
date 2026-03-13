@@ -123,7 +123,7 @@ The app includes these sections:
 
 Main app file:
 
-- [`app/streamlit_app.py`](https://youtube-comment-spam-detection-review-queue-optimization-ufn8h.streamlit.app/)
+- https://youtube-comment-spam-detection-review-queue-optimization-ufn8h.streamlit.app/
 
 ## Charts
 
