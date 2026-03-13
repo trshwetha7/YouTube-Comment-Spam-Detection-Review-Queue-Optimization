@@ -145,4 +145,4 @@ Example charts:
 
 ## Author
 
-**Shwetha Tinniam Raju**
+**Shwetha Tinnium Raju**
