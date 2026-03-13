@@ -144,49 +144,6 @@ These are sample views from the Streamlit app.
   <img src="assets/screenshots/Output-2.png" alt="Sample output 2" width="48%" />
 </p>
 
-## How to run
-
-Create the environment and install dependencies:
-
-```bash
-cd /Users/trshwetha7/Desktop/Youtube-project
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-Train the models and generate outputs:
-
-```bash
-PYTHONPATH=src python3 -m youtube_spam_detector.train
-```
-
-Run JupyterLab without opening a browser:
-
-```bash
-jupyter lab --no-browser --ip=127.0.0.1 --port=8888
-```
-
-Run Streamlit without opening a browser:
-
-```bash
-PYTHONPATH=src streamlit run app/streamlit_app.py --server.headless true --server.address 127.0.0.1 --server.port 8501
-```
-
-## Streamlit Community Cloud
-
-If you want a live public link, you can deploy the app through Streamlit Community Cloud.
-
-Basic steps:
-
-1. Push this repository to GitHub.
-2. Go to [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Sign in with GitHub.
-4. Choose this repository.
-5. Set the main file path to `app/streamlit_app.py`.
-6. Deploy the app.
-
-This is usually the easiest free option for a small Streamlit project.
 
 ## Limitations
 
@@ -197,4 +154,4 @@ This is usually the easiest free option for a small Streamlit project.
 
 ## Author
 
-Shweta Tinniyam Raju
+Shwetha Tinnium Raju
