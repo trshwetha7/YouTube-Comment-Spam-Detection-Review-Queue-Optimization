@@ -176,20 +176,6 @@ Run Streamlit without opening a browser:
 PYTHONPATH=src streamlit run app/streamlit_app.py --server.headless true --server.address 127.0.0.1 --server.port 8501
 ```
 
-## Streamlit Community Cloud
-
-If you want a live public link, you can deploy the app through Streamlit Community Cloud.
-
-Basic steps:
-
-1. Push this repository to GitHub.
-2. Go to [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Sign in with GitHub.
-4. Choose this repository.
-5. Set the main file path to `app/streamlit_app.py`.
-6. Deploy the app.
-
-This is usually the easiest free option for a small Streamlit project.
 
 ## Limitations
 
@@ -200,4 +186,4 @@ This is usually the easiest free option for a small Streamlit project.
 
 ## Author
 
-Shweta Tinniyam Raju
+**Shwetha Tinniam Raju**
